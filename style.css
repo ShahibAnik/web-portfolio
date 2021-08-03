@@ -39,3 +39,18 @@ p{
 .half p{
     float: left;
 }
+
+.single{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 80%;
+}
+:root--.experience-area{
+    background-image: url(images/exp-bg.png);
+}
+#full-stack{
+    border-left: 8px solid salmon;
+}
+#half-stack{
+    border-left: 8px solid blue;
+}
