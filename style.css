@@ -43,7 +43,7 @@ p{
 .single{
     box-shadow: 10px 10px 40px grey;
     border-radius: 10px;
-    height: 120%;
+    height: 80%;
 }
 :root--.experience-area{
     background-image: url(images/exp-bg.png);
