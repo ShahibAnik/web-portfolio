@@ -25,3 +25,17 @@ section{ height: 500px;}
     color: #f5eeee;
     font-weight: 700;
 }
+h2{
+    font-size: 40px;
+}
+.dream-area{float: left;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+p{
+    color: dimgray;
+}
+.half p{
+    float: left;
+}
